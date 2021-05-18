@@ -6,8 +6,8 @@
 ## Installation
 
 ```
-- git clone https://github.com/Yoonmie/laracasts_blog.git
-- cd laracasts_blog
+- git clone https://github.com/Yoonmie/bulletin-broad-laravel.git
+- cd bulletin-broad-laravel
 - composer install
 - cp .env.example .env
 - create database
